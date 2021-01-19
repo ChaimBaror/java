@@ -1,0 +1,5 @@
+public enum SCHOOLTYPE {
+    DRAWING, COMPUTERS, SPORTS,MATH, ENGLISH,
+
+
+}
